@@ -1,0 +1,15 @@
+/home/isabella/Votacao/bin/Debug/net6.0/Votacao
+/home/isabella/Votacao/bin/Debug/net6.0/Votacao.deps.json
+/home/isabella/Votacao/bin/Debug/net6.0/Votacao.runtimeconfig.json
+/home/isabella/Votacao/bin/Debug/net6.0/Votacao.dll
+/home/isabella/Votacao/bin/Debug/net6.0/ref/Votacao.dll
+/home/isabella/Votacao/bin/Debug/net6.0/Votacao.pdb
+/home/isabella/Votacao/obj/Debug/net6.0/Votacao.csproj.AssemblyReference.cache
+/home/isabella/Votacao/obj/Debug/net6.0/Votacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/isabella/Votacao/obj/Debug/net6.0/Votacao.AssemblyInfoInputs.cache
+/home/isabella/Votacao/obj/Debug/net6.0/Votacao.AssemblyInfo.cs
+/home/isabella/Votacao/obj/Debug/net6.0/Votacao.csproj.CoreCompileInputs.cache
+/home/isabella/Votacao/obj/Debug/net6.0/Votacao.dll
+/home/isabella/Votacao/obj/Debug/net6.0/ref/Votacao.dll
+/home/isabella/Votacao/obj/Debug/net6.0/Votacao.pdb
+/home/isabella/Votacao/obj/Debug/net6.0/Votacao.genruntimeconfig.cache
